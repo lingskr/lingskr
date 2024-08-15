@@ -1,3 +1,5 @@
+![:lingskr](https://count.getloli.com/get/@:Augenestern-creator?theme=gelbooru-h)
+
 <h1 align="center">Hi 👋, I'm lingskr</h1>
 <h3 align="center">Hello, I'm hsling, a student alchemist 🧙‍♂️ who loves machine learning ❤️. Day after day on campus 🏫, using algorithms to turn data into treasure 💎, and at night 🌙, in addition to learning and debugging code 💻, I also dream of using deep learning to predict the questions of the final exam 📚🤖. But at the moment, my model is better at predicting when the school coffee machine needs to be repaired ☕️🔧!</h3>
 
@@ -16,7 +18,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/hslingpine" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hslingpine" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/songling" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="songling" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/songling huang" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="songling huang" height="30" width="40" /></a>
 <a href="https://kaggle.com/wolfmedal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="wolfmedal" height="30" width="40" /></a>
 </p>
 
@@ -24,10 +26,8 @@
 <p align="left"> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/lingskr"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="lingskr" /></a></p><br><br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lingskr&show_icons=true&locale=en&layout=compact" alt="lingskr" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lingskr&show_icons=true&locale=en" alt="lingskr" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lingskr&" alt="lingskr" /></p>
