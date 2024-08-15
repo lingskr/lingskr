@@ -1,5 +1,3 @@
-![:lingskr](https://count.getloli.com/get/@:Augenestern-creator?theme=gelbooru-h)
-
 <h1 align="center">Hi 👋, I'm lingskr</h1>
 <h3 align="center">Hello, I'm hsling, a student alchemist 🧙‍♂️ who loves machine learning ❤️. Day after day on campus 🏫, using algorithms to turn data into treasure 💎, and at night 🌙, in addition to learning and debugging code 💻, I also dream of using deep learning to predict the questions of the final exam 📚🤖. But at the moment, my model is better at predicting when the school coffee machine needs to be repaired ☕️🔧!</h3>
 
