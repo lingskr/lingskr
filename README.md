@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm lingskr</h1>
-<h3 align="center">Hello, I'm hsling, a student alchemist 🧙‍♂️ who loves machine learning ❤</h3>
+<h3 align="center">Hello, I'm hsling, a student alchemist 🧙‍♂️ who loves machine learning </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lingskr&label=Profile%20views&color=0e75b6&style=flat" alt="lingskr" /> </p>
 
