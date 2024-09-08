@@ -31,11 +31,7 @@
 
 ###
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lingskr&label=Profile%20views&color=0e75b6&style=flat" alt="lingskr" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lingskr" alt="lingskr" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/hslingpine" target="blank"><img src="https://img.shields.io/twitter/follow/hslingpine?logo=twitter&style=for-the-badge" alt="hslingpine" /></a> </p>
 
 - 📫 How to reach me **hslingskr@163.com**
 
@@ -50,4 +46,16 @@
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lingskr&show_icons=true&locale=en" alt="lingskr" /></p>
+
+## 🏆 Achievements
+
+- 🥇**2023.5** Mathematical Contest in Modeling (MCM)     Meritorious Winner
+- 🥉**2023.11** Kaggle-Google - Fast or Slow? Predict AI Model Runtime   bronze medal   74/616
+- 🥉**2024.1** The Learning Agency Lab — Linking Writing Processes to Writing Quality  bronze medal   115/1876
+- 🥉**2024.4** Kaggle - LLM Prompt Recovery   bronze medal   207/2175
+- 🥉**2024.5** Kaggle - Home Credit - Credit Risk Model Stability  bronze medal   283/3856
+- 🥉**2020** Kaggle - Learning Agency Lab - Automated Essay Scoring 2.0  bronze medal  154/2706
+- 🥈**2020** Kaggle - NeurIPS 2024 - Predict New Medicines with BELKA silver medal   71/1950
+
+
 
