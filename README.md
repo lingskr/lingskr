@@ -9,7 +9,7 @@
 <p align="justify">
 👋 Hi there!
 
-🚀 Data Alchemy | Baidu Paddle Technology Development Expert PPDE | Competitions Expert | Open Source Contributor
+🚀 Data Alchemy | Baidu Paddle Technology Development Expert PPDE | Kaggle Competitions Expert | Open Source Contributor
 
 🔧 Tech Stack: Python, LightGBM, PaddlePaddle,TensorFlow/PyTorch, PaddleNLP, PaddleOCR, Tesseract, EasyOCR, Flask/FastAPI, PaddleHub 
 
