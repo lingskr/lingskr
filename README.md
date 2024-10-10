@@ -1,13 +1,4 @@
-<h1 align="center">Hi 👋, I'm lingskr</h1>
-<h3 align="center">Hello, I'm hsling, a student alchemist 🧙‍♂️ who loves machine learning </h3>
-<!-- <h1 align="left">Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px"></h1> -->
-
-<div align="center">
-  <img src="/assets/gif/bg.gif" width="75%">
-</div>
-
-<p align="justify">
-👋 Hi there!
+👋 Hi there! I'm hsling, a student alchemist 🧙‍♂️ who loves machine learning 
 
 🚀 Data Alchemy | Baidu Paddle Technology Development Expert PPDE | Kaggle Competitions Expert | Open Source Contributor
 
