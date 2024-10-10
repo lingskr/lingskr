@@ -11,7 +11,7 @@
 
 🚀 Data Alchemy | Baidu Paddle Technology Development Expert PPDE | Kaggle Competitions Expert | Open Source Contributor
 
-🔧 Tech Stack: Python, LightGBM, PaddlePaddle,TensorFlow/PyTorch, PaddleNLP, PaddleOCR, Tesseract, EasyOCR, Flask/FastAPI, PaddleHub 
+🔧 Tech Stack: Python, LightGBM, PaddlePaddle,TensorFlow/PyTorch, PaddleNLP, PaddleOCR, Tesseract, EasyOCR, Flask/FastAPI
 
 🌟 Hold the oar of open source and gather hundreds of rivers to form the sea!
 
