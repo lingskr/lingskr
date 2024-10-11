@@ -52,12 +52,12 @@
 ## 🏆 Achievements
 
 - 🥇**2023.05** Mathematical Contest in Modeling (MCM)     Meritorious Winner
-- 🥉**2023.11** Kaggle - Google - Fast or Slow? Predict AI Model Runtime   bronze medal   74/616
-- 🥈**2024.01** Kaggle - Linking Writing Processes to Writing Quality  silver medal   68/1876
-- 🥈**2024.04** Kaggle - LLM Prompt Recovery   silver medal   24/2175
-- 🥉**2024.05** Kaggle - Home Credit - Credit Risk Model Stability  bronze medal   283/3856
-- 🥉**2024.07** Kaggle - Learning Agency Lab - Automated Essay Scoring 2.0  bronze medal  154/2706
-- 🥈**2024.07** Kaggle - NeurIPS 2024 - Predict New Medicines with BELKA silver medal   71/1950
+- 🥉**2023.11** Kaggle - Google - Fast or Slow? Predict AI Model Runtime   bronze medal   
+- 🥈**2024.01** Kaggle - Linking Writing Processes to Writing Quality  silver medal  
+- 🥈**2024.04** Kaggle - LLM Prompt Recovery   silver medal   
+- 🥉**2024.05** Kaggle - Home Credit - Credit Risk Model Stability  bronze medal   
+- 🥉**2024.07** Kaggle - Learning Agency Lab - Automated Essay Scoring 2.0  bronze medal  
+- 🥈**2024.07** Kaggle - NeurIPS 2024 - Predict New Medicines with BELKA silver medal   
 
 
 
