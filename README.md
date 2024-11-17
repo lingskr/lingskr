@@ -58,4 +58,4 @@
 - 🥉**2024.05** Kaggle - Home Credit - Credit Risk Model Stability  bronze medal   
 - 🥉**2024.07** Kaggle - Learning Agency Lab - Automated Essay Scoring 2.0  bronze medal  
 - 🥈**2024.07** Kaggle - NeurIPS 2024 - Predict New Medicines with BELKA silver medal    
-
+- 🥈**2024.11** Kaggle - ARC Prize 2024 silver medal
