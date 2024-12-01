@@ -59,3 +59,4 @@
 - 🥉**2024.07** Kaggle - Learning Agency Lab - Automated Essay Scoring 2.0  bronze medal  
 - 🥈**2024.07** Kaggle - NeurIPS 2024 - Predict New Medicines with BELKA silver medal    
 - 🥈**2024.11** Kaggle - ARC Prize 2024 silver medal
+- 🥇**2024.11** FlagEval大模型角斗场评测大赛第一名
