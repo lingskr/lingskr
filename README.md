@@ -44,10 +44,6 @@
 <a href="https://kaggle.com/wolfmedal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="wolfmedal" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Support:</h3>
-
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lingskr&show_icons=true&locale=en" alt="lingskr" /></p>
 
 ## 🏆 Achievements
 
