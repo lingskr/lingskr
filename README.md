@@ -3,7 +3,7 @@
 <a href="https://www.python.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" align="right" height="48" width="48" ></a>
 
 
-👋 Hi there! I'm hsling, a student alchemist 🧙‍♂️ who loves machine learning 
+👋 Hi there! I'm songling, a student alchemist 🧙‍♂️ who loves machine learning 
 
 🚀 Data Alchemy | Baidu Paddle Technology Development Expert PPDE | Kaggle Competitions Expert | Open Source Contributor
 
