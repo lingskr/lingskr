@@ -58,3 +58,4 @@
 - 🥇**2024.11** FlagEval大模型角斗场评测大赛第一名
 - 🥉**2024.12** Kaggle - UM - Game-Playing Strength of MCTS Variants bronze medal
 - 🥉**2025.03** Kaggle - CIBMTR - Equity in post-HCT Survival Predictions bronze medal 
+- 🥈**2025.11** Kaggle - ARC Prize 2025 silver medal
