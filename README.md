@@ -41,7 +41,7 @@
 
 ### Intelligent Evaluation Intern
 **Beijing Academy of Artificial Intelligence (BAAI)** · Intelligent Evaluation Group  
-**Jan 2025 – Present**
+**Jan 2025 – March 2025**
 - Contributed to the development of **FlagEval (Tianping)**, BAAI’s large-model evaluation framework.
 - Built in-house evaluation benchmarks and conducted research on **jailbreak attacks**, **adversarial prompting**, and **model safety**.
 - Designed optimized attack prompts with **random search**, including **in-context learning** and **prefill-based** attack strategies.
