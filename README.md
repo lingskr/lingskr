@@ -11,7 +11,7 @@
 
 🌟 Hold the oar of open source and gather hundreds of rivers to form the sea!
 
-🛠 常用的工具:
+🛠 Commonly used tools:
 
 &emsp;&emsp; 
 ![Apple](https://img.shields.io/badge/Apple-000000?style=style=flat-square&logo=apple&logoColor=white)
@@ -72,7 +72,6 @@ You can click the Preview link to take a look at your changes.
 - 🥉**2025.03** Kaggle - CIBMTR - Equity in post-HCT Survival Predictions bronze medal 
 - 🥈**2025.11** Kaggle - ARC Prize 2025 silver medal
 - 🥉**2026.03** Kaggle - Deep Past Challenge - Translate Akkadian to English bronze medal 
-
 <!-- 贪吃蛇代码贡献图 -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
