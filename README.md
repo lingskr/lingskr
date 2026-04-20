@@ -37,7 +37,23 @@
 
 - 📫 How to reach me **hslingskr@gmail.com**
 
+## 💼 Internship Experience
 
+### Large Model Evaluation Intern  
+**Beijing Academy of Artificial Intelligence (BAAI)** · On-site · Beijing, China  
+**Jan 2025 – Mar 2025**
+
+- Worked on large language model evaluation and related benchmarking tasks.
+- Participated in evaluation workflow design, data analysis, and result inspection for LLM systems.
+- Gained hands-on experience in LLM evaluation pipelines, benchmark analysis, and model capability assessment.
+
+### AI Development Intern  
+**China Mobile Information Technology Center** · On-site  
+**Jul 2024 – Sep 2024**
+
+- Contributed to the optimization of the LLM-based intelligent translation platform **“AI快译”**.
+- Participated in AI product improvement related to OCR, computer vision, and multilingual/translation scenarios.
+- Supported model application, feature iteration, and practical deployment-oriented development.
 
 ## 🏆 Achievements
 
