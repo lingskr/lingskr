@@ -69,7 +69,8 @@ You can click the Preview link to take a look at your changes.
 - 🥈**2024.11** Kaggle - ARC Prize 2024 silver medal
 - 🥇**2024.11** FlagEval大模型角斗场评测大赛第一名
 - 🥉**2024.12** Kaggle - UM - Game-Playing Strength of MCTS Variants bronze medal
-- 🥉**2025.03** Kaggle - CIBMTR - Equity in post-HCT Survival Predictions bronze medal 
+- 🥉**2025.03** Kaggle - CIBMTR - Equity in post-HCT Survival Predictions bronze medal
+- 🎖️**2025.04** 第五届中国移动「梧桐杯」大模型智能体赛道   全国第3名 / 云南省第1名
 - 🥈**2025.11** Kaggle - ARC Prize 2025 silver medal
 - 🥉**2026.03** Kaggle - Deep Past Challenge - Translate Akkadian to English bronze medal 
 <!-- 贪吃蛇代码贡献图 -->
