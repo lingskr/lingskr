@@ -16,12 +16,13 @@
 &emsp;&emsp; 
 ![Apple](https://img.shields.io/badge/Apple-000000?style=style=flat-square&logo=apple&logoColor=white)
 ![Macos](https://img.shields.io/badge/Macos-000000?style=flat-square&logo=macos&logoColor=white)
-![Safari](https://img.shields.io/badge/Safari-000000?style=flat-square&logo=Safari&logoColor=white)
 ![Google Chrome](https://img.shields.io/badge/Chrome-4285F4?style=flat-square&logo=GoogleChrome&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
+![Safari](https://img.shields.io/badge/Safari-000000?style=flat-square&logo=Safari&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=fff)
 ![Pycharm](https://img.shields.io/badge/Pycharm-000000?style=flat-square&logo=Pycharm&logoColor=white)
 ![Pytorch](https://img.shields.io/badge/Pytorch-EE4C2C?style=flat-square&logo=Pytorch&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=fff)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=flat-square&logo=openai&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-FCC624?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-pink?style=flat-square&logo=github)
 <!---
