@@ -19,10 +19,9 @@
 ![Google Chrome](https://img.shields.io/badge/Chrome-4285F4?style=flat-square&logo=GoogleChrome&logoColor=white)
 ![Safari](https://img.shields.io/badge/Safari-000000?style=flat-square&logo=Safari&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=fff)
-![Pycharm](https://img.shields.io/badge/Pycharm-000000?style=flat-square&logo=Pycharm&logoColor=white)
-![Pytorch](https://img.shields.io/badge/Pytorch-EE4C2C?style=flat-square&logo=Pytorch&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=flat-square&logo=openai&logoColor=white)
+![Pytorch](https://img.shields.io/badge/Pytorch-EE4C2C?style=flat-square&logo=Pytorch&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-FCC624?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-pink?style=flat-square&logo=github)
 <!---
@@ -70,7 +69,7 @@ You can click the Preview link to take a look at your changes.
 - 🥇**2024.11** FlagEval大模型角斗场评测大赛第一名
 - 🥉**2024.12** Kaggle - UM - Game-Playing Strength of MCTS Variants bronze medal
 - 🥉**2025.03** Kaggle - CIBMTR - Equity in post-HCT Survival Predictions bronze medal
-- 🎖️**2025.10** 第五届中国移动「梧桐杯」大模型智能体赛道   全国第3名 / 云南省第1名
+- 🎖️**2025.10** 第五届中国移动「梧桐杯」初赛 智能体赛道   全国第3名 / 云南省第1名
 - 🥈**2025.11** Kaggle - ARC Prize 2025 silver medal
 - 🥉**2026.03** Kaggle - Deep Past Challenge - Translate Akkadian to English bronze medal 
 <!-- 贪吃蛇代码贡献图 -->
