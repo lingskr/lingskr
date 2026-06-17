@@ -68,10 +68,11 @@ You can click the Preview link to take a look at your changes.
 - 🥇**2024.11** FlagEval大模型角斗场评测大赛第一名
 - 🥉**2024.12** Kaggle - UM - Game-Playing Strength of MCTS Variants bronze medal
 - 🥉**2025.03** Kaggle - CIBMTR - Equity in post-HCT Survival Predictions bronze medal
-- 🎖️**2025.10** 第五届中国移动「梧桐杯」初赛 智能体赛道   全国第3名 / 云南省第1名
+- 🎖️**2025.10** 第五届中国移动「梧桐杯」初赛A榜 智能体赛道   全国第3名 / 云南省第1名
 - 🥈**2025.11** Kaggle - ARC Prize 2025 silver medal
 - 🥉**2026.03** Kaggle - Deep Past Challenge - Translate Akkadian to English bronze medal
 - 🚀**2026.05** KDD Cup 2026 - TAAC Large-scale Recommendation Challenge, ranked 160 / 1873 teams, Top 8.5%
+- 🥉**2026.06** NVIDIA Nemotron Model Reasoning Challenge
 <!-- 贪吃蛇代码贡献图 -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
