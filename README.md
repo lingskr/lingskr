@@ -72,7 +72,7 @@ You can click the Preview link to take a look at your changes.
 - 🥈**2025.11** Kaggle - ARC Prize 2025 silver medal
 - 🥉**2026.03** Kaggle - Deep Past Challenge - Translate Akkadian to English bronze medal
 - 🚀**2026.05** KDD Cup 2026 - TAAC Large-scale Recommendation Challenge, ranked 160 / 1873 teams, Top 8.5%
-- 🥉**2026.06** Kaggle - NVIDIA Nemotron Model Reasoning Challenge
+- 🥉**2026.06** Kaggle - NVIDIA Nemotron Model Reasoning Challenge bronze medal
 <!-- 贪吃蛇代码贡献图 -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
