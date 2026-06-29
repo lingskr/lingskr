@@ -40,20 +40,15 @@ You can click the Preview link to take a look at your changes.
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/hslingpine)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-id/)
 
-### Intelligent Evaluation Intern
+### Intelligent Evaluation Intern  
 **Beijing Academy of Artificial Intelligence (BAAI)** · Intelligent Evaluation Group  
-**Jan 2025 – March 2025**
-- Built in-house evaluation benchmarks and conducted research on **jailbreak attacks**, **adversarial prompting**, and **model safety**.
-- Designed optimized attack prompts with **random search**, including **in-context learning** and **prefill-based** attack strategies.
-- Explored defense methods such as **adversarial training** 
+**Jan 2025 – Mar 2025**  
+- Worked on LLM safety evaluation, adversarial attack research, and benchmark construction.
 
-### AI Development Intern
+### AI Development Intern  
 **China Mobile Information Technology Center**  
-**Jul 2024 – Sep 2024**
-- Worked on a dual-engine intelligent translation system based on **NMT + LLM**.
-- Built OCR-oriented corpora with paired image-text data across diverse fonts, layouts, and backgrounds.
-- Optimized and trained **PaddleOCR** models for text recognition and detection.
-- Contributed to Android app development for **user management**, **OCR**, and **translation** features.
+**Jul 2024 – Sep 2024**  
+- Involved in OCR model optimization, intelligent translation systems, and mobile application development.
 
 ## 🏆 Achievements
 
